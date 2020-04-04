@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// deneme satırı
+/*deneme satırı*/
 void main() {
   runApp(MyApp());
 }
