@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 /*deneme satırı*/
+/*deneme satiri 2 */
 void main() {
   runApp(MyApp());
 }
